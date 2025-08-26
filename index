@@ -9,7 +9,7 @@
     <h1>Welcome to Laundary wallah</h1>
     <p>We are here to make your life easier by taking the hassle out of laundry. From washing and drying to ironing and folding, we handle everything with care and perfection. Our goal is to deliver fresh, clean, and neatly packed clothes right to your doorstep. Experience convenient, fast, and reliable laundry services like never before!</p>
     <br>
-    <img src = "https://www.bing.com/images/search?view=detailV2&ccid=CXZA7EhQ&id=E5E0CE63D76D75D9018894A0CE8A8D3D3B5E9248&thid=OIP.CXZA7EhQZDXSvqxgz_efkwHaH6&mediaurl=https%3a%2f%2fc8.alamy.com%2fcomp%2fJTNXJ4%2flaundry-room-with-washing-machine-and-clothes-vector-illustration-JTNXJ4.jpg&exph=1390&expw=1300&q=image+of+waching+machine+washing+clothes+for+a+website&FORM=IRPRST&ck=B045031F657FC86E91A8F14175DAFB6D&selectedIndex=120&itb=0" alt = "image of a washing machine ">
+    <img src = "https://img.freepik.com/premium-photo/washing-machine-with-white-background-high-quality_889056-17816.jpg" alt = "image of a washing machine " height ="250">
     <br>
     <h3>Our Services</h3>
     <ul>
@@ -41,7 +41,7 @@
     <h3>
         Book Now
     </h3>
-    <form action="https://www.example.com/submit" method="post">
+    <form >
        
         <label for="name">Full Name:</label>
         <input type="text" id="name" name="name" >
@@ -64,4 +64,5 @@
 
 
 </body>
+
 </html>
